@@ -3,7 +3,7 @@ content:
   - name: pages
     label: Pages
     type: collection
-    path: content/wiki/test
+    path: src/content/wiki/test
     fields:
       - name: title
         type: string
